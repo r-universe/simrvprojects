@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SimRVPedigree"]
 	path = SimRVPedigree
 	url = https://github.com/simrvprojects/simrvpedigree
-	shallow = true
-	registered = true
